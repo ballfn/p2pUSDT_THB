@@ -9,4 +9,4 @@ Only the first page of the listing is collected for both buy and sell.
 ## Filename
 p2p[date]-[month].csv
 ## csv
-time(UTC-7), UNIX time,buy price list, sell price list, mean for buy price, mean for sell price, BTC/USDT price
+time(UTC-7), UNIX time,buy price list, sell price list, mean for buy price,first buy price, mean for sell price, first sell price, BTC/USDT price
